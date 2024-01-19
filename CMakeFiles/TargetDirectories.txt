@@ -1,0 +1,3 @@
+/home/fadwaj/Documents/test code/CMakeFiles/my_executable.dir
+/home/fadwaj/Documents/test code/CMakeFiles/edit_cache.dir
+/home/fadwaj/Documents/test code/CMakeFiles/rebuild_cache.dir
